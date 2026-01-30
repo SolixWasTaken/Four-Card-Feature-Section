@@ -136,7 +136,7 @@ body {
 }
 
 .header__primary h2 {
-    max-width: 31.25;
+    max-width: 31.25rem;
     text-align: center;
     font-size: 1em;
     font-weight: var(--fw-medium);
@@ -204,3 +204,4 @@ body {
         max-width: 21.875rem;
     }
 }
+
